@@ -2,6 +2,8 @@
 
 Final project for Advanced Predictive Modeling with professor Joydeep Ghosh. Below are links to the relevant pieces of work for our final submission. You can also [view our blog on Medium](https://medium.com/@rawini23/american-sign-language-hand-gesture-recognition-f1c4468fb177). 
 
+This project and blog was a joint effort by Rawini Dias, LaShay Fontenot, Katie Grant, Chris Henson, and Shivank Sood.
+
 ## Data
 
 [Dynamic Signs Leap Motion Data](https://github.com/chenson2018/APM-Project/tree/master/LeapMotion/Leap_Motion_Data)
